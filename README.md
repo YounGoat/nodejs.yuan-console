@@ -4,7 +4,7 @@ yuan-console is dependent on yuan, and is part of the Yuan series. It is useful 
 
 ##	User Manual
 
-*	[yuan, An Easy Way from * to JavaScript](https://youngoat.gitbooks.io/ecmascript-yuan/content/)  
+*	[yuan-console, An Easy Way to The Console World](https://youngoat.gitbooks.io/nodejs-yuan-console/content/)  
 	on gitbook.com, OR
-*	[YounGoat/gitbook.ecmascript.yuan](https://github.com/YounGoat/gitbook.ecmascript.yuan)  
+*	[YounGoat/gitbook.nodejs.yuan-console](https://github.com/YounGoat/gitbook.nodejs.yuan-console)  
 	on github.com.

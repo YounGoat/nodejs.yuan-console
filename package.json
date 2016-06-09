@@ -1,6 +1,6 @@
 {
     "name": "yuan-console",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "CLI development toolkit",
     "main": "index.js",
     "scripts": {
@@ -9,7 +9,7 @@
     "author": "Triver YounGoat <youngoat@163.com> (http://youngoat.github.io/)",
     "repository": {
         "type": "git",
-        "url": "https://github.com/YounGoat/ecmascript.yuan.git"
+        "url": "https://github.com/YounGoat/nodejs.yuan-console.git"
     },
     "license": "SEE LICENSE IN LICENSE.txt",
     "dependencies": {
