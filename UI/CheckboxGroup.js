@@ -189,9 +189,9 @@ CheckboxGroup.prototype.toggle = function() {
 		this.checkedIndexes.push(this.position);
 	}
 
-	this.render();
 	this.emitSingle(checked ? 'uncheck' : 'check');
 	this.emitSingle('toggle');
+	this.render();
 };
 
 CheckboxGroup.prototype.movePrevious = function() {
